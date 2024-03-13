@@ -1,0 +1,158 @@
+--train_root "datasets/data/2015alltrain.txt" --valid_root "datasets/data/2015allvalid.txt" --test_root "datasets/data/2015alltest.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'dropout_rate': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/2016alltrain.txt" --valid_root "datasets/data/2016allvalid.txt" --test_root "datasets/data/2016alltest.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/2017alltrain.txt" --valid_root "datasets/data/2017allvalid.txt" --test_root "datasets/data/2017alltest.txt"
+
+{'T': 1, 'learning_rate': 0.0007064847318666772, 'l2': 5e-05, 'drop': 0.1, 'd': 30, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/2018alltrain.txt" --valid_root "datasets/data/2018allvalid.txt" --test_root "datasets/data/2018alltest.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+
+
+--train_root "datasets/data/2015rem15train.txt" --valid_root "datasets/data/2015rem15valid.txt" --test_root "datasets/data/2015rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0011801648727113132, 'l2': 0.0, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/2016rem15train.txt" --valid_root "datasets/data/2016rem15valid.txt" --test_root "datasets/data/2016rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/2017rem15train.txt" --valid_root "datasets/data/2017rem15valid.txt" --test_root "datasets/data/2017rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/2018rem15train.txt" --valid_root "datasets/data/2018rem15valid.txt" --test_root "datasets/data/2018rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+
+
+
+
+
+
+--train_root "datasets/data/S2015rem15train.txt" --valid_root "datasets/data/S2015rem15valid.txt" --test_root "datasets/data/S2015rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/S2016rem15train.txt" --valid_root "datasets/data/S2016rem15valid.txt" --test_root "datasets/data/S2016rem15test.txt"
+
+ {'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/S2017rem15train.txt" --valid_root "datasets/data/S2017rem15valid.txt" --test_root "datasets/data/S2017rem15test.txt"
+
+ {'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/S2018rem15train.txt" --valid_root "datasets/data/S2018rem15valid.txt" --test_root "datasets/data/S2018rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+
+--train_root "datasets/data/SS2015rem15train.txt" --valid_root "datasets/data/SS2015rem15valid.txt" --test_root "datasets/data/SS2015rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0011801648727113132, 'l2': 0.0, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SS2016rem15train.txt" --valid_root "datasets/data/SS2016rem15valid.txt" --test_root "datasets/data/SS2016rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SS2017rem15train.txt" --valid_root "datasets/data/SS2017rem15valid.txt" --test_root "datasets/data/SS2017rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SS2018rem15train.txt" --valid_root "datasets/data/SS2018rem15valid.txt" --test_root "datasets/data/SS2018rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SSS2015rem15train.txt" --valid_root "datasets/data/SSS2015rem15valid.txt" --test_root "datasets/data/SSS2015rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SSS2016rem15train.txt" --valid_root "datasets/data/SSS2016rem15valid.txt" --test_root "datasets/data/SSS2016rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SSS2017rem15train.txt" --valid_root "datasets/data/SSS2017rem15valid.txt" --test_root "datasets/data/SSS2017rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/SSS2018rem15train.txt" --valid_root "datasets/data/SSS2018rem15valid.txt" --test_root "datasets/data/SSS2018rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.0016701141776432151, 'l2': 5e-05, 'drop': 0.1, 'd': 50, 'nv': 2, 'nh': 16}
+
+--train_root "datasets/data/B2015rem15train.txt" --valid_root "datasets/data/B2015rem15valid.txt" --test_root "datasets/data/B2015rem15test.txt"
+
+{'T': 1, 'learning_rate': 0.00010635579027269577, 'l2': 0.0, 'drop': 0.5, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/B2016rem15train.txt" --valid_root "datasets/data/B2016rem15valid.txt" --test_root "datasets/data/B2016rem15test.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+
+--train_root "datasets/data/B2017rem15train.txt" --valid_root "datasets/data/B2017rem15valid.txt" --test_root "datasets/data/B2017rem15test.txt"
+
+{'T': 2, 'learning_rate': 0.00026676890226100475, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+
+--train_root "datasets/data/B2018rem15train.txt" --valid_root "datasets/data/B2018rem15valid.txt" --test_root "datasets/data/B2018rem15test.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2015allshuffle01uitrain.txt" --valid_root "datasets/data/2015allshuffle01uivalid.txt" --test_root "datasets/data/2015allshuffle01uitest.txt"
+
+{'T': 3, 'learning_rate': 0.0005497922391566914, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 4, 'nh': 8}
+
+--train_root "datasets/data/2016allshuffle01uitrain.txt" --valid_root "datasets/data/2016allshuffle01uivalid.txt" --test_root "datasets/data/2016allshuffle01uitest.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2017allshuffle01uitrain.txt" --valid_root "datasets/data/2017allshuffle01uivalid.txt" --test_root "datasets/data/2017allshuffle01uitest.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2018allshuffle01uitrain.txt" --valid_root "datasets/data/2018allshuffle01uivalid.txt" --test_root "datasets/data/2018allshuffle01uitest.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2015allshuffle02uitrain.txt" --valid_root "datasets/data/2015allshuffle02uivalid.txt" --test_root "datasets/data/2015allshuffle02uitest.txt"
+
+{'T': 3, 'learning_rate': 0.0005497922391566914, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 4, 'nh': 8}
+
+--train_root "datasets/data/2016allshuffle02uitrain.txt" --valid_root "datasets/data/2016allshuffle02uivalid.txt" --test_root "datasets/data/2016allshuffle02uitest.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2017allshuffle02uitrain.txt" --valid_root "datasets/data/2017allshuffle02uivalid.txt" --test_root "datasets/data/2017allshuffle02uitest.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2018allshuffle02uitrain.txt" --valid_root "datasets/data/2018allshuffle02uivalid.txt" --test_root "datasets/data/2018allshuffle02uitest.txt"
+
+{'T': 3, 'learning_rate': 0.0005497922391566914, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 4, 'nh': 8}
+
+--train_root "datasets/data/2015allshuffle03uitrain.txt" --valid_root "datasets/data/2015allshuffle03uivalid.txt" --test_root "datasets/data/2015allshuffle03uitest.txt"
+
+{'T': 1, 'learning_rate': 0.00010635579027269577, 'l2': 0.0, 'drop': 0.5, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2016allshuffle03uitrain.txt" --valid_root "datasets/data/2016allshuffle03uivalid.txt" --test_root "datasets/data/2016allshuffle03uitest.txt"
+
+{'T': 3, 'learning_rate': 0.0005497922391566914, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 4, 'nh': 8}
+
+--train_root "datasets/data/2017allshuffle03uitrain.txt" --valid_root "datasets/data/2017allshuffle03uivalid.txt" --test_root "datasets/data/2017allshuffle03uitest.txt"
+
+{'T': 2, 'learning_rate': 0.00017913984207195915, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 1, 'nh': 4}
+
+--train_root "datasets/data/2018allshuffle03uitrain.txt" --valid_root "datasets/data/2018allshuffle03uivalid.txt" --test_root "datasets/data/2018allshuffle03uitest.txt"
+
+{'T': 3, 'learning_rate': 0.0005497922391566914, 'l2': 0.0, 'drop': 0.30000000000000004, 'd': 10, 'nv': 4, 'nh': 8}
+
+
+
+
